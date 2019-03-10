@@ -1,2 +1,3 @@
-# emotion-model
-Emotion Model
+# Emotion Model
+
+A computational model of emotion.
