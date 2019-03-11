@@ -12,7 +12,9 @@ Robert P. Marinier III. 2008. [A Computational Unification of Cognitive Control,
 
 Stacy Marsella, Jonathan Gratch, Paolo Petta. 2010. [Computational Models of Emotion.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/marsella_et_al_2010.pdf) In K. R. Scherer, T. Bänziger, E. Roesch (eds.), A Blueprint for an Affectively Competent Agent: Cross-fertilization between Emotion Psychology, Affective Neuroscience, and Affective Computing. Oxford University Press.
 
-Hannah Rashkin, Maarten Sap, Emily Allaway, Noah A. Smith, Yejin Choi. 2018. [Event2Mind: Commonsense Inference on Events, Intents, and Reactions](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/rashkin_et_al_2018.pdf) In ACL.
+Hannah Rashkin, Maarten Sap, Emily Allaway, Noah A. Smith, Yejin Choi. 2018. [Event2Mind: Commonsense Inference on Events, Intents, and Reactions](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/rashkin_et_al_2018a.pdf) In ACL.
+
+Hannah Rashkin, Antoine Bosselut, Maarten Sap, Kevin Knight, Yejin Choi. 2018. [Modeling Naive Psychology of Characters in Simple Commonsense Stories.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/rashkin_et_al_2018b.pdf) In ACL.
 
 Ira J. Roseman, Martin S. Spindel, Paul Jose. 1990. [Appraisals of Emotion-Eliciting Events: Testing a Theory of Discrete Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/roseman_et_al_1990.pdf) Journal of Personality and Social Psychology, 59(5):899-915.
 
