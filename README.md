@@ -1,22 +1,5 @@
 # Emotion Model
 
-A computational model of emotion.
-
-## Emotion classification
-
-
-| Emotions | |
-| --- | --- |
-| Primary emotion | Secondary emotion | |
-| Happiness | |
-| | Joy | |
-| Sadness | |
-| Disgust | |
-| Fear | |
-| Surprise | |
-| Anticipation | |
-| Neutral | |
-
 ## References
 
 Eva Hudlicka. 2011. [Guidelines for Designing Computational Models of Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hudlicka_2011.pdf) International Journal of Synthetic Emotions, 2(1).
