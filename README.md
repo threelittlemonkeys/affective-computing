@@ -10,6 +10,8 @@ Chao-Chun Hsu, Lun-Wei Ku. 2018. [SocialNLP 2018 EmotionX Challenge Overview: Re
 
 Eva Hudlicka. 2011. [Guidelines for Designing Computational Models of Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hudlicka_2011.pdf) International Journal of Synthetic Emotions, 2(1).
 
+Xiangju Li, Kaisong Song, Shi Feng, Daling Wang, Yifei Zhang. 2018. [A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/li_et_al_2018.pdf) In EMNLP.
+
 Jerry Lin, Marc Spraragen, Michael Zyda. 2012. [Computational Models of Emotion and Cognition.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/lin_et_al_2012.pdf) Advances in Cognitive Systems 2:59-76.
 
 Robert P. Marinier III. 2008. [A Computational Unification of Cognitive Control, Emotion, and Learning.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/marinier_iii_2008.pdf) Doctoral dissertation. The University of Michigan.
