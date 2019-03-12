@@ -2,6 +2,8 @@
 
 ## References
 
+Alan S. Cowen, Dacher Keltner. 2017. [Self-report captures 27 distinct categories of emotion bridged by continuous gradients.]((https://github.com/threelittlemonkeys/emotion-model/blob/master/references/cowen_et_al_2017.pdf) In Proceedings of the National Academy of Sciences of the United States of America.
+
 Eva Hudlicka. 2008. [What Are We Modeling When We Model Emotion?](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hudlicka_2008.pdf) AAAI Spring Symposium: Technical Report, pages 52-59.
 
 Chao-Chun Hsu, Lun-Wei Ku. 2018. [SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hsu_et_al_2018.pdf) In Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media.
