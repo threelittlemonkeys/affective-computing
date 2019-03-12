@@ -4,6 +4,8 @@
 
 Eva Hudlicka. 2008. [What Are We Modeling When We Model Emotion?](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hudlicka_2008.pdf) AAAI Spring Symposium: Technical Report, pages 52-59.
 
+Chao-Chun Hsu, Lun-Wei Ku. 2018. [SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hsu_et_al_2018.pdf) In Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media.
+
 Eva Hudlicka. 2011. [Guidelines for Designing Computational Models of Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hudlicka_2011.pdf) International Journal of Synthetic Emotions, 2(1).
 
 Jerry Lin, Marc Spraragen, Michael Zyda. 2012. [Computational Models of Emotion and Cognition.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/lin_et_al_2012.pdf) Advances in Cognitive Systems 2:59-76.
