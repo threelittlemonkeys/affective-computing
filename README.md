@@ -14,6 +14,8 @@ Xiangju Li, Kaisong Song, Shi Feng, Daling Wang, Yifei Zhang. 2018. [A Co-Attent
 
 Jerry Lin, Marc Spraragen, Michael Zyda. 2012. [Computational Models of Emotion and Cognition.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/lin_et_al_2012.pdf) Advances in Cognitive Systems 2:59-76.
 
+Stefano Mezza, Alessandra Cervone, Giuliano Tortoreto, Evgeny A. Stepanov, Giuseppe Riccardi. 2018. [ISO-Standard Domain-Independent Dialogue Act Tagging for Conversational Agents.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/mezza_et_al_2018.pdf) In Proceedings of the 27th International Conference on Computational Linguistics.
+
 Robert P. Marinier III. 2008. [A Computational Unification of Cognitive Control, Emotion, and Learning.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/marinier_iii_2008.pdf) Doctoral dissertation. The University of Michigan.
 
 Stacy Marsella, Jonathan Gratch, Paolo Petta. 2010. [Computational Models of Emotion.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/marsella_et_al_2010.pdf) In K. R. Scherer, T. Bänziger, E. Roesch (eds.), A Blueprint for an Affectively Competent Agent: Cross-fertilization between Emotion Psychology, Affective Neuroscience, and Affective Computing. Oxford University Press.
