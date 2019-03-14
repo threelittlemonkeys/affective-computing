@@ -2,6 +2,8 @@
 
 ## References
 
+Laura-Ana-Maria Bostan, Roman Klinger. 2018. [An Analysis of Annotated Corpora for Emotion Classification in Text.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/bostan_et_al_2018.pdf) In Proceedings of the 27th International Conference on Computational Linguistics.
+
 Alan S. Cowen, Dacher Keltner. 2017. [Self-report captures 27 distinct categories of emotion bridged by continuous gradients.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/cowen_et_al_2017.pdf) In Proceedings of the National Academy of Sciences of the United States of America.
 
 Eva Hudlicka. 2008. [What Are We Modeling When We Model Emotion?](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hudlicka_2008.pdf) AAAI Spring Symposium: Technical Report, pages 52-59.
@@ -9,6 +11,8 @@ Eva Hudlicka. 2008. [What Are We Modeling When We Model Emotion?](https://github
 Chao-Chun Hsu, Lun-Wei Ku. 2018. [SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hsu_et_al_2018.pdf) In Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media.
 
 Eva Hudlicka. 2011. [Guidelines for Designing Computational Models of Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hudlicka_2011.pdf) International Journal of Synthetic Emotions, 2(1).
+
+Evgeny Kim, Roman Klinger. 2018. [Who Feels What and Why? Annotation of a Literature Corpus with Semantic Roles of Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/kim_et_al_2018.pdf) In Proceedings of the 27th International Conference on Computational Linguistics.
 
 Xiangju Li, Kaisong Song, Shi Feng, Daling Wang, Yifei Zhang. 2018. [A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/li_et_al_2018.pdf) In EMNLP.
 
@@ -33,5 +37,7 @@ Rohit Saxena, Savita Bhat, Niranjan Pedanekar. 2018. [EmotionX-Area66: Predictin
 Nilesh Shelke, Shriniwas Deshpande, Vilas Thakare. 2013. [Approaches towards Emotion Extraction from Text.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/shelke_et_al_2017.pdf) In National Conference on Innovative Paradigms in Engineering & Technology.
 
 Bas R. Steunebrink, Mehdi Dastani, John-Jules Ch Meyer. 2009. [The OCC model revisited.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/steunebrink_et_al_2009.pdf) The 4th Workshop on Emotion and Computing.
+
+Shabnam Tafreshi, Mona Diab. 2018. [Sentence and Clause Level Emotion Annotation, Detection, and Classification in a Multi-Genre Corpus.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/tafreshi_et_al_2018.pdf) In Proceedings of the Eleventh International Conference on Language Resources and Evaluation.
 
 Wilco W. van Dijk, Marcel Zeelenberg. 2002. [Investigating the Appraisal Patterns of Regret and Disappointment.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/van_dijk_et_al_2002.pdf) Motivation and Emotion, 26(4).
