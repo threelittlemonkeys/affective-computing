@@ -28,6 +28,8 @@ Ira J. Roseman, Martin S. Spindel, Paul Jose. 1990. [Appraisals of Emotion-Elici
 
 Ira J. Roseman, Ann Aliki Antoniou, Paul E. Jose. 1996. [Appraisal Determinants of Emotions: Constructing a More Accurate and Comprehensive Theory.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/roseman_et_al_1996.pdf) Cognition and Emotion, 10(3):241-277.
 
+Rohit Saxena, Savita Bhat, Niranjan Pedanekar. 2018. [EmotionX-Area66: Predicting Emotions in Dialogues using Hierarchical Attention Network with Sequence Labeling.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/saxena_et_al_2018.pdf) In Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media.
+
 Nilesh Shelke, Shriniwas Deshpande, Vilas Thakare. 2013. [Approaches towards Emotion Extraction from Text.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/shelke_et_al_2017.pdf) In National Conference on Innovative Paradigms in Engineering & Technology.
 
 Bas R. Steunebrink, Mehdi Dastani, John-Jules Ch Meyer. 2009. [The OCC model revisited.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/steunebrink_et_al_2009.pdf) The 4th Workshop on Emotion and Computing.
