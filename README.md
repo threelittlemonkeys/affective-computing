@@ -10,9 +10,13 @@ Eva Hudlicka. 2008. [What Are We Modeling When We Model Emotion?](https://github
 
 Chao-Chun Hsu, Lun-Wei Ku. 2018. [SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hsu_et_al_2018.pdf) In Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media.
 
+Eddie Harmon-Jones, Cindy Harmon-Jones, Elizabeth Summerell. 2017. [On the Importance of Both Dimensional and Discrete Models of Emotion.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/harmon-jones_2017.pdf) Behavioral Sciences 7(66).
+
 Eva Hudlicka. 2011. [Guidelines for Designing Computational Models of Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hudlicka_2011.pdf) International Journal of Synthetic Emotions, 2(1).
 
 Evgeny Kim, Roman Klinger. 2018. [Who Feels What and Why? Annotation of a Literature Corpus with Semantic Roles of Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/kim_et_al_2018.pdf) In Proceedings of the 27th International Conference on Computational Linguistics.
+
+Hye-yong Lee. 2010. [A Study on Expressive in Korean Language: Type Classification and Performative Form in Expressive.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/lee_2010.pdf) Doctoral dissertation. Ewha Womans University.
 
 Xiangju Li, Kaisong Song, Shi Feng, Daling Wang, Yifei Zhang. 2018. [A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/li_et_al_2018.pdf) In EMNLP.
 
@@ -22,11 +26,15 @@ Stefano Mezza, Alessandra Cervone, Giuliano Tortoreto, Evgeny A. Stepanov, Giuse
 
 Robert P. Marinier III. 2008. [A Computational Unification of Cognitive Control, Emotion, and Learning.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/marinier_iii_2008.pdf) Doctoral dissertation. The University of Michigan.
 
-Stacy Marsella, Jonathan Gratch, Paolo Petta. 2010. [Computational Models of Emotion.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/marsella_et_al_2010.pdf) In K. R. Scherer, T. Bänziger, E. Roesch (eds.), A Blueprint for an Affectively Competent Agent: Cross-fertilization between Emotion Psychology, Affective Neuroscience, and Affective Computing. Oxford University Press.
+Stacy Marsella, Jonathan Gratch, Paolo Petta. 2010. [Computational Models of Emotion.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/marsella_et_al_2010.pdf) In K. R. Scherer, T. Bänziger, E. Roesch, editors, A Blueprint for an Affectively Competent Agent: Cross-fertilization between Emotion Psychology, Affective Neuroscience, and Affective Computing. Oxford University Press.
 
 Hannah Rashkin, Maarten Sap, Emily Allaway, Noah A. Smith, Yejin Choi. 2018. [Event2Mind: Commonsense Inference on Events, Intents, and Reactions](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/rashkin_et_al_2018a.pdf) In ACL.
 
 Hannah Rashkin, Antoine Bosselut, Maarten Sap, Kevin Knight, Yejin Choi. 2018. [Modeling Naive Psychology of Characters in Simple Commonsense Stories.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/rashkin_et_al_2018b.pdf) In ACL.
+
+William Revelle, Klaus R. Scherer. 2009. [Personality and Emotion.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/revelle_2009.pdf) In David Sander, Klaus Scherer, editors, Oxford Companion to Emotion and the Affective Sciences, pages 304-305. Oxford University Press.
+
+David L. Robinson. 2008. [Brain function, emotional experience and personality.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/robinson_2008.pdf) Netherlands Journal of Psychology 64(5):152-168.
 
 Ira J. Roseman, Martin S. Spindel, Paul Jose. 1990. [Appraisals of Emotion-Eliciting Events: Testing a Theory of Discrete Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/roseman_et_al_1990.pdf) Journal of Personality and Social Psychology, 59(5):899-915.
 
