@@ -16,6 +16,8 @@ Eva Hudlicka. 2011. [Guidelines for Designing Computational Models of Emotions.]
 
 Evgeny Kim, Roman Klinger. 2018. [Who Feels What and Why? Annotation of a Literature Corpus with Semantic Roles of Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/kim_et_al_2018.pdf) In Proceedings of the 27th International Conference on Computational Linguistics.
 
+Su Nam Kim, Lawrence Cavedon, Timothy Baldwin. 2010. [Classifying Dialogue Acts in One-on-one Live Chats.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/kim_et_al_2010.pdf) In EMNLP.
+
 Hye-yong Lee. 2010. [A Study on Expressive in Korean Language: Type Classification and Performative Form in Expressive.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/lee_2010.pdf) Doctoral dissertation. Ewha Womans University.
 
 Xiangju Li, Kaisong Song, Shi Feng, Daling Wang, Yifei Zhang. 2018. [A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/li_et_al_2018.pdf) In EMNLP.
