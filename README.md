@@ -4,11 +4,17 @@
 
 Laura-Ana-Maria Bostan, Roman Klinger. 2018. [An Analysis of Annotated Corpora for Emotion Classification in Text.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/bostan_et_al_2018.pdf) In Proceedings of the 27th International Conference on Computational Linguistics.
 
+Ying Chen, Wenjun Hou, Xiyao Cheng, Shoushan Li. 2018. [Joint Learning for Emotion Classification and Emotion Cause Detection.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/chen_et_al_2018.pdf) In EMNLP.
+
 Alan S. Cowen, Dacher Keltner. 2017. [Self-report captures 27 distinct categories of emotion bridged by continuous gradients.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/cowen_et_al_2017.pdf) In Proceedings of the National Academy of Sciences of the United States of America.
 
 Eva Hudlicka. 2008. [What Are We Modeling When We Model Emotion?](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hudlicka_2008.pdf) AAAI Spring Symposium: Technical Report, pages 52-59.
 
 Chao-Chun Hsu, Lun-Wei Ku. 2018. [SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hsu_et_al_2018.pdf) In Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media.
+
+Lin Gui, Dongyin Wu, Ruifeng Xu, Qin Lu, Yu Zhou. 2016. [Event-Driven Emotion Cause Extraction with Corpus Construction.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/gui_et_al_2016.pdf) In EMNLP.
+
+Lin Gui, Jiannan Hua, Yulan Hec, Ruifeng Xua, Qin Lue, Jiachen Du. 2017. [A Question Answering Approach to Emotion Cause Extraction.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/gui_et_al_2017.pdf) In EMNLP.
 
 Eddie Harmon-Jones, Cindy Harmon-Jones, Elizabeth Summerell. 2017. [On the Importance of Both Dimensional and Discrete Models of Emotion.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/harmon-jones_2017.pdf) Behavioral Sciences 7(66).
 
