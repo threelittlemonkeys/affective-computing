@@ -58,6 +58,6 @@ Bas R. Steunebrink, Mehdi Dastani, John-Jules Ch Meyer. 2009. [The OCC model rev
 
 Andreas Stolcke, Klaus Ries, Noah Coccaro, Elizabeth Shriberg, Rebecca Bates, Daniel Jurafsky, Paul Taylor, Rachel Martin, Carol Van Ess-Dykema, Marie Meteer. 2000. [Dialogue Act Modeling for Automatic Tagging and Recognition of Conversational Speech.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/stolcke_2000.pdf) Computational Linguistics 26(3).
 
-Shabnam Tafreshi, Mona Diab. 2018. [Sentence and Clause Level Emotion Annotation, Detection, and Classification in a Multi-Genre Corpus.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/tafreshi_et_al_2018.pdf) In Proceedings of the Eleventh International Conference on Language Resources and Evaluation.
+Shabnam Tafreshi, Mona Diab. 2018. [Sentence and Clause Level Emotion Annotation, Detection, and Classification in a Multi-Genre Corpus.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/tafreshi_et_al_2018.pdf) In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC).
 
 Wilco W. van Dijk, Marcel Zeelenberg. 2002. [Investigating the Appraisal Patterns of Regret and Disappointment.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/van_dijk_et_al_2002.pdf) Motivation and Emotion, 26(4).
