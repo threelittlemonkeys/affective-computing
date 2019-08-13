@@ -61,3 +61,5 @@ Andreas Stolcke, Klaus Ries, Noah Coccaro, Elizabeth Shriberg, Rebecca Bates, Da
 Shabnam Tafreshi, Mona Diab. 2018. [Sentence and Clause Level Emotion Annotation, Detection, and Classification in a Multi-Genre Corpus.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/tafreshi_et_al_2018.pdf) In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC).
 
 Wilco W. van Dijk, Marcel Zeelenberg. 2002. [Investigating the Appraisal Patterns of Regret and Disappointment.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/van_dijk_et_al_2002.pdf) Motivation and Emotion, 26(4).
+
+Rui Xia, Zixiang Ding. 2019. [Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/xia_et_al_2019.pdf) In ACL.
