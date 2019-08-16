@@ -20,6 +20,10 @@ Eddie Harmon-Jones, Cindy Harmon-Jones, Elizabeth Summerell. 2017. [On the Impor
 
 Eva Hudlicka. 2011. [Guidelines for Designing Computational Models of Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/hudlicka_2011.pdf) International Journal of Synthetic Emotions, 2(1).
 
+Jong Su Jeong, A-yeong Shin. 2013. [A Study on Expressive in Korean Language by Clarifying Its Scope and Contents.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/jeong_et_al_2013.pdf) Studies in Humanities 36:259-286.
+
+Jong Su jeong. 2016. [A Study on the Expressive Speech-acts Implicated by Other Speech-acts.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/jeong_2016.pdf) Youngnamhak 29:403-436.
+
 Evgeny Kim, Roman Klinger. 2018. [Who Feels What and Why? Annotation of a Literature Corpus with Semantic Roles of Emotions.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/kim_et_al_2018.pdf) In Proceedings of the 27th International Conference on Computational Linguistics.
 
 Su Nam Kim, Lawrence Cavedon, Timothy Baldwin. 2010. [Classifying Dialogue Acts in One-on-one Live Chats.](https://github.com/threelittlemonkeys/emotion-model/blob/master/references/kim_et_al_2010.pdf) In EMNLP.
