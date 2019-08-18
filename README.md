@@ -16,7 +16,7 @@ Eva Hudlicka. 2008. [What Are We Modeling When We Model Emotion?](https://github
 
 Eddie Harmon-Jones, Cindy Harmon-Jones, Elizabeth Summerell. 2017. [On the Importance of Both Dimensional and Discrete Models of Emotion.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/harmon-jones_2017.pdf) Behavioral Sciences 7(66).
 
-Chao-Chun Hsu, Lun-Wei Ku. 2018. [SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/hsu_et_al_2018.pdf) In Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media.
+Chao-Chun Hsu, Lun-Wei Ku. 2018. [SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/hsu_et_al_2018.pdf) In Proceedings of the 6th International Workshop on Natural Language Processing for Social Media.
 
 Eva Hudlicka. 2011. [Guidelines for Designing Computational Models of Emotions.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/hudlicka_2011.pdf) International Journal of Synthetic Emotions, 2(1).
 
@@ -38,7 +38,7 @@ Robert P. Marinier III. 2008. [A Computational Unification of Cognitive Control,
 
 Stacy Marsella, Jonathan Gratch, Paolo Petta. 2010. [Computational Models of Emotion.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/marsella_et_al_2010.pdf) In K. R. Scherer, T. Bänziger, E. Roesch, editors, A Blueprint for an Affectively Competent Agent: Cross-fertilization between Emotion Psychology, Affective Neuroscience, and Affective Computing. Oxford University Press.
 
-Hannah Rashkin, Maarten Sap, Emily Allaway, Noah A. Smith, Yejin Choi. 2018. [Event2Mind: Commonsense Inference on Events, Intents, and Reactions](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/rashkin_et_al_2018a.pdf) In ACL.
+Hannah Rashkin, Maarten Sap, Emily Allaway, Noah A. Smith, Yejin Choi. 2018. [Event2Mind: Commonsense Inference on Events, Intents, and Reactions.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/rashkin_et_al_2018a.pdf) In ACL.
 
 Hannah Rashkin, Antoine Bosselut, Maarten Sap, Kevin Knight, Yejin Choi. 2018. [Modeling Naive Psychology of Characters in Simple Commonsense Stories.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/rashkin_et_al_2018b.pdf) In ACL.
 
@@ -50,13 +50,13 @@ Ira J. Roseman, Martin S. Spindel, Paul Jose. 1990. [Appraisals of Emotion-Elici
 
 Ira J. Roseman, Ann Aliki Antoniou, Paul E. Jose. 1996. [Appraisal Determinants of Emotions: Constructing a More Accurate and Comprehensive Theory.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/roseman_et_al_1996.pdf) Cognition and Emotion, 10(3):241-277.
 
-Rohit Saxena, Savita Bhat, Niranjan Pedanekar. 2018. [EmotionX-Area66: Predicting Emotions in Dialogues using Hierarchical Attention Network with Sequence Labeling.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/saxena_et_al_2018.pdf) In Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media.
+Rohit Saxena, Savita Bhat, Niranjan Pedanekar. 2018. [EmotionX-Area66: Predicting Emotions in Dialogues using Hierarchical Attention Network with Sequence Labeling.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/saxena_et_al_2018.pdf) In Proceedings of the 6th International Workshop on Natural Language Processing for Social Media.
 
 Nilesh Shelke, Shriniwas Deshpande, Vilas Thakare. 2013. [Approaches towards Emotion Extraction from Text.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/shelke_et_al_2017.pdf) In National Conference on Innovative Paradigms in Engineering & Technology.
 
 Bas R. Steunebrink, Mehdi Dastani, John-Jules Ch Meyer. 2009. [The OCC model revisited.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/steunebrink_et_al_2009.pdf) The 4th Workshop on Emotion and Computing.
 
-Shabnam Tafreshi, Mona Diab. 2018. [Sentence and Clause Level Emotion Annotation, Detection, and Classification in a Multi-Genre Corpus.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/tafreshi_et_al_2018.pdf) In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC).
+Shabnam Tafreshi, Mona Diab. 2018. [Sentence and Clause Level Emotion Annotation, Detection, and Classification in a Multi-Genre Corpus.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/tafreshi_et_al_2018.pdf) In Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC).
 
 Wilco W. van Dijk, Marcel Zeelenberg. 2002. [Investigating the Appraisal Patterns of Regret and Disappointment.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/van_dijk_et_al_2002.pdf) Motivation and Emotion, 26(4).
 
