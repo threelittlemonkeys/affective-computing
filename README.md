@@ -6,6 +6,8 @@ Laura-Ana-Maria Bostan, Roman Klinger. 2018. [An Analysis of Annotated Corpora f
 
 Ying Chen, Wenjun Hou, Xiyao Cheng, Shoushan Li. 2018. [Joint Learning for Emotion Classification and Emotion Cause Detection.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/chen_et_al_2018.pdf) In EMNLP.
 
+Mathieu Cliche. 2017. [BB twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/cliche_2017.pdf) In Proceedings of the 11th International Workshop on Semantic Evaluations (SemEval).
+
 Alan S. Cowen, Dacher Keltner. 2017. [Self-report captures 27 distinct categories of emotion bridged by continuous gradients.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/cowen_et_al_2017.pdf) In Proceedings of the National Academy of Sciences of the United States of America.
 
 Lin Gui, Dongyin Wu, Ruifeng Xu, Qin Lu, Yu Zhou. 2016. [Event-Driven Emotion Cause Extraction with Corpus Construction.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/gui_et_al_2016.pdf) In EMNLP.
