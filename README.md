@@ -62,4 +62,6 @@ Shabnam Tafreshi, Mona Diab. 2018. [Sentence and Clause Level Emotion Annotation
 
 Wilco W. van Dijk, Marcel Zeelenberg. 2002. [Investigating the Appraisal Patterns of Regret and Disappointment.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/van_dijk_et_al_2002.pdf) Motivation and Emotion, 26(4).
 
+Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu. 2018. [Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/zhou_et_al_2018.pdf) In AAAI.
+
 Rui Xia, Zixiang Ding. 2019. [Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/xia_et_al_2019.pdf) In ACL.
