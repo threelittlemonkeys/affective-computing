@@ -4,9 +4,9 @@
 
 Laura-Ana-Maria Bostan, Roman Klinger. 2018. [An Analysis of Annotated Corpora for Emotion Classification in Text.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/bostan_et_al_2018.pdf) In Proceedings of the 27th International Conference on Computational Linguistics.
 
-Jack Breese, Gene Ball. 1998. [Modeling Emotional State and Personality for Conversational Agents.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/breese_et_al_1998.pdf) In AAAI.
-
 Mathieu Bourgais, Patrick Taillandier, Laurent Vercouter, Carole Adam. 2018. [Emotion Modeling in Social Simulation: A Survey.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/bourgais_et_al_2018.pdf) Journal of Artificial Societies and Social Simulation 21(2).
+
+Jack Breese, Gene Ball. 1998. [Modeling Emotional State and Personality for Conversational Agents.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/breese_et_al_1998.pdf) In AAAI.
 
 Ying Chen, Wenjun Hou, Xiyao Cheng, Shoushan Li. 2018. [Joint Learning for Emotion Classification and Emotion Cause Detection.](https://github.com/threelittlemonkeys/affective-computing/blob/master/references/chen_et_al_2018.pdf) In EMNLP.
 
